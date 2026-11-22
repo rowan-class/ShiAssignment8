@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ItemInfo>
+	<Item>
+		<Name>HealthPotion</Name>
+		<ID>HealthPotion</ID>
+		<Type>Health</Type>
+		<Sprite>placeholder</Sprite>
+	</Item>
+</ItemInfo>
